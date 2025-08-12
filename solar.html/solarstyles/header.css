@@ -1,0 +1,59 @@
+.header{
+    position: fixed;
+    top: 0;
+    width: 1500px;
+    height: 100px;
+    z-index: 1000;
+    background-color: white;
+    box-shadow: 0 14px 15.3px rgba(195, 195, 195, 26%);
+}
+
+.left-section{
+    font-family:Helvetica;
+    font-weight: 700;
+    font-size: 24px;
+    color: #0B253B;
+    padding-left: 148px;
+    padding-top: 33px;
+}
+
+.right-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 354px;
+    font-family:Inter;
+    font-weight: 400;
+    font-size: 15px;
+    position: absolute;
+    left: 835px;
+    top: 39px;
+   
+}
+
+.group-sign{
+    width: 12px;
+    height: 6.53px;
+    margin-left: 5px;
+}
+
+.sign-solution{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.contact-button{
+    border: none;
+    border-radius: 72px;
+    width: 136px;
+    height: 42px;
+    background-color: #F37321;
+    font-family:Inter;
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+    position: absolute;
+    top: 29px;
+    left: 1212px;    
+}
