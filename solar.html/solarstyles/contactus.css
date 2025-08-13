@@ -1,11 +1,45 @@
-body{
-    height: 4000px;
-}
-
-.contactus-container{
+.contactus-background{
     width: 1500px;
     height: 179px;
-    background-color: blue;
+    background-color: #0B253B;
     position: absolute;
     top: 1280px;
+}
+
+.embrace-text{
+    font-family:Helvetica;
+    font-weight: 400;
+    font-size: 36px;
+    color:white;
+    position: absolute;
+    top: 1335px;
+    left: 149px;  
+}
+
+.getstarted-text{
+    font-family:Inter;
+    font-weight: 400;
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    top: 1388px;
+    left: 150px;
+}
+
+.white-button{
+    font-family:Inter;
+    font-weight: 600;
+    font-size: 16px;
+    color: #232323;
+    border: none;
+    border-radius: 72px;
+    background-color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 28px;
+    padding-right: 28px;
+    position: absolute;
+    top: 1349px;
+    left: 1113px;
+
 }

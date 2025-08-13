@@ -1,7 +1,20 @@
-.quotes-background{
+body{
+    height: 4000px;
+}
+
+    .quotes-background{
         width: 1500px;
         height: 608px;
         background-color: #FFF9F4;
+    }
+
+    .quote-text-container{
+        display: flex;
+        align-items: center;
+        gap: 9px;
+        position: absolute;
+        top: 211px;
+        left: 150px;
     }
 
     .title{
@@ -9,17 +22,11 @@
         font-weight: 400;
         font-size: 15px;
         color: #F37321;
-        position: absolute;
-        top: 211px;
-        left: 262px;
     }
    
     .sign{
         width: 103px;
         height: 6px;
-        position: absolute;
-        top: 219px;
-        left: 150px;
     }
 
     .services-text{
