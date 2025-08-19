@@ -1,0 +1,43 @@
+.Testimonials{
+    width: 1500px;
+    height: 595px;
+    background-color: #FFF9F4;
+    position: absolute;
+    top: 2120px;
+}
+
+.comments-img{
+    position: absolute;
+    top: 2330px;
+    left: 160px;
+}
+
+.testimonals-title-container{
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    position: absolute;
+    left: 638px;
+    top: 2177px;
+}
+
+.success-stories{
+    font-family:Helvetica;
+    font-weight: 400;
+    font-size: 36px;
+    position: absolute;
+    top: 2213px;
+    left: 532px;
+}
+
+.success-stories-description{
+    font-family:Inter;
+    font-weight: 400;
+    font-size: 15px;
+    color: #232323;
+    line-height: 144%;
+    position: absolute;
+    top: 2272px;
+    left: 374px;
+
+}

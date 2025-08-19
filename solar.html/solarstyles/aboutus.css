@@ -46,19 +46,6 @@
     left: 802px;
 }
 
-.sign-aboutus{
-    width: 103px;
-    height: 6px;
-    
-}
-
-.heading-aboutus{
-    font-family:Inter;
-    font-weight: 500;
-    font-size: 15px;
-    color: #f37321;
-}
-
 .title-aboutus{
     font-family:Helvetica;
     width: 491px;
@@ -97,4 +84,5 @@
     position: absolute;
     top: 1138px;
     left: 802px;
+    cursor: pointer;
 }

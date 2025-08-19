@@ -1,0 +1,118 @@
+.start-background{
+    width: 1500px;
+    height: 610px;
+    position: absolute;
+    top: 3527px;
+    background-color: #fff9f4;
+}
+
+.start-title-container{
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    position: absolute;
+    left: 216px;
+    top: 3710px;
+}
+
+.start-text{
+    font-family:Helvetica;
+    width: 371px;
+    font-weight: 400;
+    font-size: 36px;
+    position: absolute;
+    top: 3746px;
+    left: 216px;
+}
+
+.start-description{
+    width: 404px;
+    font-family:Inter;
+    font-weight: 400;
+    font-size: 15px;
+    color: #232323;
+    line-height: 144%;
+    position: absolute;
+    top: 3888px;
+    left: 216px;
+}
+
+.get-quote-container{
+    position: absolute;
+    top: 3573px;
+    left: 758px;
+}
+
+.get-quote-background{
+    position: relative;
+    width: 590px;
+    height: 519px;
+    border-radius: 20px;
+    border: none;
+    background-color: #FFFFFF;
+    box-shadow: 0 10px 40.4px rgba(118, 118, 118, 0.25);
+}
+
+.get-quote-title{
+    font-family:Inter;
+    font-weight: 600;
+    font-size: 24px;
+    color: #232323;
+    position: absolute;
+    top: 33px;
+    left: 181px;
+    right: 180px;
+}
+
+.start-type-bar{
+    font-family:Inter;
+    font-weight: 400;
+    font-size: 14px;
+    width: 464px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 24px;
+    border-radius: 58px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #c0c0c0;
+}
+
+.privacy-policy-quote{
+    color: black;
+    font-family:Inter;
+    font-weight: 400;
+    font-size: 12px;
+    width: 477px;
+    position: absolute;
+    top: 341px;
+    left: 78px;
+}
+
+.checkbox{
+    width: 20px;
+    height: 19px;
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #818181;
+    position: absolute;
+    top: 344px;
+    left: 50px;
+}
+
+.start-quote-button{
+    font-family:Inter;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    border: none;
+    background-color: #f37321;
+    border-radius: 72px;
+    width: 484px;
+    height: 49px;
+    position: absolute;
+    top: 435px;
+    left: 53px;
+    cursor: pointer;
+}

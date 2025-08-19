@@ -17,12 +17,23 @@
     top: 1557px;
 }
 
-.sign-mission{
+.sign-mission,
+.sign-testimonals,
+.sign,
+.sign-aboutus,
+.sign-blog,
+.start-sign
+{
     width: 103px;
     height: 6px;
 }
 
-.mission-text{
+.mission-text,
+.title-testimonals,
+.heading-aboutus,
+.title-blog,
+.start-title
+{
     font-family:Inter;
     font-weight: 500;
     font-size: 15px;
@@ -67,4 +78,5 @@
     position: absolute;
     top: 1977px;
     left: 149px;
+    cursor: pointer;
 }

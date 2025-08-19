@@ -28,7 +28,7 @@
     position: absolute;
     left: 835px;
     top: 39px;
-   
+    cursor: pointer; 
 }
 
 .group-sign{
@@ -55,5 +55,6 @@
     color: white;
     position: absolute;
     top: 29px;
-    left: 1212px;    
+    left: 1212px;
+    cursor: pointer; 
 }

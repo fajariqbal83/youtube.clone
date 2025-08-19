@@ -1,0 +1,73 @@
+.background-ending{
+   background-color: #0B253B;
+   width: 1500px;
+   height: 326px;
+   position: absolute;
+   top: 4135px;
+}
+
+.end-title{
+    font-family:Helvetica;
+    font-weight: bold;
+    font-size: 24px;
+    color: #ffffff;
+    position: absolute;
+    top: 4178px;
+    left: 635px;
+}
+
+.end-description{
+    position: absolute;
+    top: 4227px;
+    left: 406px;
+    width: 689px;
+    font-family:Inter;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 144%;
+    color: #ffffff;
+    text-align: center;
+}
+
+.end-information{
+    position: absolute;
+    top: 4285px;
+    left: 637px;
+    width: 226px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family:Inter;
+    font-weight: 400;
+    font-size: 15px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.accounts-sign{
+    width: 130.5px;
+    height: 36px;
+    position: absolute;
+    top: 4329px;
+    left: 684.88px;
+    cursor: pointer;
+}
+
+.end-line{
+    width: 1173px;
+    position: absolute;
+    top: 4396px;
+    left: 164px;
+}
+
+.end-rights{
+    font-family:Inter;
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff;
+    position: absolute;
+    top: 4421.05px;
+    left: 570px;
+
+}

@@ -1,0 +1,79 @@
+body{
+    width: 1500px;
+    height: 1541px;
+}
+
+
+.contact-background-ending{
+   background-color: #0B253B;
+   width: 1500px;
+   height: 327px;
+   position: absolute;
+   top: 1215px;
+}
+
+.end-title-contact{
+    font-family:Helvetica;
+    font-weight: bold;
+    font-size: 24px;
+    color: #ffffff;
+    position: absolute;
+    top: 1258.13px;
+    left: 635px;
+}
+
+.end-description-contact{
+    position: absolute;
+    top: 1307.28px;
+    left: 406px;
+    width: 689px;
+    font-family:Inter;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 144%;
+    color: #ffffff;
+    text-align: center;
+}
+
+.end-information-contact{
+    position: absolute;
+    top: 1365.46px;
+    left: 637px;
+    width: 226px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family:Inter;
+    font-weight: 400;
+    font-size: 15px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.accounts-sign-contact{
+    width: 130.5px;
+    height: 36px;
+    position: absolute;
+    top: 1409.6px;
+    left: 684.88px;
+    cursor: pointer;
+}
+
+.end-line-contact{
+    width: 1173px;
+    position: absolute;
+    top: 1476.8px;
+    left: 164px;
+}
+
+.end-rights-contact{
+    font-family:Inter;
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff;
+    position: absolute;
+    top: 1501.93px;
+    left: 570px;
+
+}
